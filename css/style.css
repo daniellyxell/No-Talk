@@ -1,4 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
 .header{
-    text-align: center;
-    font-size: 40px;
+}
+.title{
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
 }
